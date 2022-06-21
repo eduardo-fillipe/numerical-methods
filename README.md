@@ -1,2 +1,2 @@
-# numerical-methods
+# Numerical Methods
 Implmentation of numerial methods
